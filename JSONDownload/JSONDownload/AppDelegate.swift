@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  JSONDownload
 //
-//  Created by Holzer Teresa on 17.12.21.
+//  Created by Nico Siegl on 06.01.22.
 //
 
 import UIKit
